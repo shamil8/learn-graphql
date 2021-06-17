@@ -1,0 +1,24 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "JS learn GraphQL",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamil8/learn-graphql.git"
+  },
+  "keywords": [
+    "js",
+    "graphql",
+    "es6"
+  ],
+  "author": "Shamil Qurbonov <qurbonovshamil@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamil8/learn-graphql/issues"
+  },
+  "homepage": "https://github.com/shamil8/learn-graphql#readme"
+}
